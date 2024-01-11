@@ -31,8 +31,12 @@
      align-items: flex-end;
      position: absolute;
      right: 20px;
-     margin-top: -8px;
      display: none;
+     padding: 8px 18px;
+
+     /* Adjust the spread value for thickness */
+     box-shadow: 0px 0px 2px rgb(255, 255, 255); 
+     border-radius: 5px;
  }
 
 
